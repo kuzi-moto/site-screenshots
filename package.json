@@ -1,0 +1,14 @@
+{
+  "name": "site-screenshots",
+  "version": "1.0.0",
+  "description": "Automate taking screenshots of sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuzma Fesenko",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
